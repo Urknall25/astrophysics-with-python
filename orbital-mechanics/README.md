@@ -40,6 +40,8 @@ Install them using:
 ```bash
 pip install matplotlib
 
+---
+
 ## 🖼️ Example Output
 
 <img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/03354c23-900e-4a11-9f13-b61d5f87b297" />
