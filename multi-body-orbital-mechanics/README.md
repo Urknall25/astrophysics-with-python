@@ -1,22 +1,23 @@
-🌌 Multi-Body Orbital Mechanics
-A beautiful Python simulation of planets orbiting a star, powered by Newton’s laws and Matplotlib animations.
+# 🌌 Multi-Body Orbital Mechanics
 
-🚀 Features
+A beautiful Python simulation of planets orbiting a star, powered by **Newton’s laws** and **Matplotlib animations**.  
 
-Realistic gravitational physics
+## 🚀 Features
+- Realistic gravitational physics  
+- Multiple planets with trails  
+- Subtle glow effects for beauty  
+- Adjustable speed & scaling  
 
-Multiple planets with trails
+## 📸 Preview
+![Simulation Screenshot](Figure_2.png)  
 
-Subtle glow effects for beauty
-
-Adjustable speed & scaling
-
-📸 Preview
-
-📦 Run It
-
-```bash
-pip install matplotlib numpy
-python multi_body_orbital_mechanics.py
-```
-💡 Made for space lovers & future astrophysicists.
+## 📦 How to Run
+1. Install dependencies:
+   ```bash
+   pip install matplotlib numpy
+   ```
+2. Install dependencies:
+   ```bash
+   pip install matplotlib numpy
+   ```
+# 💡 Made for space lovers & future astrophysicists.   
