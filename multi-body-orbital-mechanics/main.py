@@ -4,7 +4,7 @@ import math
 
 # --- Physics constants ---
 G = 6.67430e-11  # gravitational constant
-dt = 60 * 60 * 6  # time step (6 hours)
+dt = 60 * 60 * 24  # time step (24 hours)
 frame_count = 0   # to animate glow pulsing
 
 # --- Planet data ---
@@ -45,6 +45,7 @@ planets = [
 
 # --- Setup figure ---
 fig, ax = plt.subplots()
+fig.patch.set_facecolor('black')
 ax.set_facecolor("black")
 ax.set_aspect('equal', adjustable='box')
 
