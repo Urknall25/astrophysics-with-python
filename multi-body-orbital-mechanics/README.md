@@ -9,7 +9,8 @@ A beautiful Python simulation of planets orbiting a star, powered by **Newton’
 - Adjustable speed & scaling  
 
 ## 📸 Preview
-![Simulation Screenshot](Figure_2.png)  
+<img width="1280" height="612" alt="Figure_2" src="https://github.com/user-attachments/assets/d8ec7827-df18-4b8b-8a7d-8a60db0d50f9" />
+
 
 ## 📦 How to Run
 1. Install dependencies:
