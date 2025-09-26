@@ -17,7 +17,7 @@ As a student passionate about astrophysics and Python, I'm building this reposit
 **Status:** Done  
 Simulates a planet orbiting a star using Newton's law of universal gravitation. Visualizes the orbit path using `matplotlib`.
 
-> 🔧 *Coming soon: support for multiple planets and variable initial speeds!*
+> 🔧 *Update: support for multiple planets and variable initial speeds!*
 
 ---
 
