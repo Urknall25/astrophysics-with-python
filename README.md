@@ -21,7 +21,7 @@ Simulates a planet orbiting a star using Newton's law of universal gravitation. 
 
 
 ### 🚀 Hohmann Transfer Simulations and Delta-V Calculations
-**Status:** Done 
+**Status:** Done  
 Simulates a probe performing a Hohmann Transfer using the Vis-Viva equation. Graphs show "Speed vs. Time" and other relations.
 
 ---
