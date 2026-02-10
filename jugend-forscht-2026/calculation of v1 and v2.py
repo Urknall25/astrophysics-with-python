@@ -2,7 +2,7 @@ import math
 import matplotlib.pyplot as plt
 import numpy as np
 
-# ========== Constants ==========
+# ========== Constants ===========
 mu_earth = 3.986e14  # gravitational constant × Earth’s mass
 r_earth = 6371e3      # Earth radius (m)
 
@@ -57,5 +57,6 @@ plt.grid(True, linestyle='--', alpha=0.6)
 
 plt.scatter([320], [fuel], color='red', zorder=5)
 plt.text(330, fuel, f'Mein Satellit\n(Isp=320s, Treibstoff={int(fuel)}kg)', color='red')
+
 
 plt.show()
